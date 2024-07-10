@@ -12,14 +12,11 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: (https://zbuli-t.github.io/social-links-profile-task/))
 
 ## My process
 
@@ -65,5 +62,5 @@ div:not(:nth-child(1),:nth-child(2)) {
 
 ## Author
 
-- Website - [J.T.](https://www.your-site.com)
+-  [J.T.]
 
