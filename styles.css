@@ -1,0 +1,70 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    font-family: "Inter";
+    font-size: 14;
+}
+
+.outer_layer{
+    margin: 30%;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 30px;
+}
+
+.pic{
+    padding-top: 30px;
+}
+
+img {
+    width: 30%;
+    height: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    align-items: center;
+}
+
+.location {
+    color:hsl(75, 94%, 57%);
+}
+
+
+div:not(:nth-child(1),:nth-child(2)) {
+    display:block;
+    border-radius: 10px;
+    height: 30px;
+    margin-left:35px;
+    margin-right:35px;
+    background-color: hsl(0, 0%, 20%);
+    margin-bottom: 10px;
+    padding: 5px 0;
+    text-align: center;
+
+}
+
+div:last-child{
+    margin-bottom: 30px;
+}
+
+
+div:not(:nth-child(1),:nth-child(2)):hover{
+    background-color:hsl(75, 94%, 57%);
+    color:hsl(0, 0%, 8%);
+    cursor: pointer;
+    
+    
+}
+
+
+
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%)
+}
