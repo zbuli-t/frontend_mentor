@@ -9,7 +9,7 @@ body{
 
 .outer_layer{
     width: 100%; /* for mobile devices */
-	max-width: 300px; /* for larger screens */
+    max-width: 300px; /* for larger screens */
     background-color: hsl(0, 0%, 12%);
     border-radius: 30px;
     margin: 10% auto;
